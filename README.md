@@ -1,2 +1,6 @@
-# evergreen_appsec_spring20
-syllabus plus ???
+|WEEK NUMBER|TOPICS|READINGS|LABS|
+|-----------|------|--------|----|
+|1          |DIR TRAVERSAL,OS CMD INJECTION, SQL INJECTION| <a href="https://portswigger.net/support/getting-started-with-burp-suite">BURP PROXY INTRO</a>, <a href="https://portswigger.net/web-security/file-path-traversal">DIR TRAVERSAL</a>, <a href="https://portswigger.net/web-security/os-command-injection">CMD INJECTION</a>, <a href="https://portswigger.net/web-security/sql-injection">SQL INJECTION</a>|WEBGOAT GENERAL, PORTSWIGGER DIRECTORY TRAVERSAL & COMMAND INJECTION, PORTSWIGGER SQL INJECTION OR WEBGOAT SQL INJECTION|
+|2          |DOM,AUTHENTICATION,ACCESS CONTROL,XSS| <a href="https://portswigger.net/web-security/dom-based">DOM VULNERABILITIES</a>,WEBGOAT AUTHENTICATION FLAWS SECTION, <a href="https://portswigger.net/web-security/access-control">ACCESS CONTROL</a>, <a href="https://portswigger.net/web-security/cross-site-scripting">XSS</a>| PORTSWIGGER DOM BASED LABS, WEBGOAT AUTHENTICATION LABS, PORTSWIGGER ACCESS CONTROL & XSS LABS|
+|3          |CSRF,XXE,DESERIALIZATION| <a href="https://portswigger.net/web-security/csrf">CSRF</a>,<a href="https://portswigger.net/web-security/xxe">XXE</a>,
+WEBGOAT INSECURE DESERIALIZATION SECTION| PORTSWIGGER CSRF LABS, WEBGOAT XXE & DESERIALIZATION LABS|
